@@ -12,7 +12,7 @@ I am a type of person who puts 100% effort on what I like and I like to solve pr
 <br>
 
 ## HOW DO I INTEND TO CONTRIBUTE BACK TO THE CLUB
-I will actively participate in activities, and events hosted by the club. I will share my knowledge with my friends and colleagues and create a good atmosphere inside the club.Maybe next year if I get a chance, I am even ready to mentor newly joined peoples. I can't guarentee if i would win many competetions but i would surely put my best in all competetions that I'm taking part, representing the club.
+I will actively participate in activities, and events hosted by the club. I will share my knowledge with my friends and colleagues and create a good atmosphere inside the club. Maybe next year if I get a chance, I am even ready to mentor newly joined peoples. I can't guarentee if i would win many competetions but i would surely put my best in all competetions that I'm taking part, representing the club.
 <br>
 
 ## FIELDS OF INTEREST AND HOW I PLAN TO WORK ON THEM
