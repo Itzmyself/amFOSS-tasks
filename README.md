@@ -1,10 +1,10 @@
 # amFOSS-tasks
+<br>
 
 ## SELF-INTRODUCTION
 Hi I'm SHYAM (S2-AID)<br>
 I'm from Kozhikode,Kerala<br>
 I have no computer background so I'm not aware of anything but I'm ready to learn about everything that the club is offering to teach. 
-<br>
 <br>
 
 ## WHY SHOULD YOU CHOOSE ME
