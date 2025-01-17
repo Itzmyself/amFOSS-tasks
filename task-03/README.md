@@ -1,0 +1,2 @@
+This task was quite difficult for me as it was the first time I have ever created website and used Javascript.
+I finished this task thanks to the meterials they provided for reference (mainly w3schools.com).
