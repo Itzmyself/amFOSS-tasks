@@ -1,2 +1,1 @@
-I didn't complete this task as first of all the extention didn't work with my default browser (Brave).
-After some days I changed my browser to Chrome and I tried then it worked.
+I couldn't complete this task as in my default browser(Brave) the extension was not shown .Then when I changed to chrome the extension was shown there but it was too late. I tried to code but there is some problem in fetching the UPI and processing it. 
