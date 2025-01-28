@@ -1,7 +1,7 @@
 body {
-
   text-align: center;
-  background-color: #283149;
+  background: #283149;
+  min-height: 100vh;
 }
 
 h1 {
@@ -13,47 +13,42 @@ h1 {
 }
 
 .w.drum {
-  background-color: #FF5733; /* Orange */
+  background-color: #FF5733; 
   box-shadow: 0 5px 15px rgba(255, 87, 51, 0.6);
 }
 
 .a.drum {
-  background-color: #FFC300; /* Yellow */
+  background-color: #FFC300; 
   box-shadow: 0 5px 15px rgba(255, 195, 0, 0.6);
 }
 
 .s.drum {
-  background-color: #04AA6D; /* Green */
+  background-color: #04AA6D; 
   box-shadow: 0 5px 15px rgba(4, 170, 109, 0.6);
 }
 
 .d.drum {
-  background-color: #008CBA; /* Blue */
+  background-color: #008CBA; 
   box-shadow: 0 5px 15px rgba(0, 140, 186, 0.6);
 }
 
 .j.drum {
-  background-color: #555555; /* Grey */
+  background-color: #555555; 
   box-shadow: 0 5px 15px rgba(85, 85, 85, 0.6);
 }
 
 .k.drum {
-  background-color: #8C33FF; /* Purple */
+  background-color: #8C33FF;
   box-shadow: 0 5px 15px rgba(140, 51, 255, 0.6);
 }
 
 .l.drum {
-  background-color: #FF33F6; /* Pink */
+  background-color: #FF33F6; 
   box-shadow: 0 5px 15px rgba(255, 51, 246, 0.6);
 }
 
 .set {
   margin: 10% auto;
-}
-
-.game-over {
-  background-color: red;
-  opacity: 0.8;
 }
 
 .pressed {

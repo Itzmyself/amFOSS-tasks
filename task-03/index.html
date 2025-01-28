@@ -1,118 +1,28 @@
 <!DOCTYPE html>
-<html lang="en" dir="ltr">
+<html>
 
 <head>
+  <link rel="stylesheet" type="text/css" href="styles.css">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sofia">
   <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:wght@700&display=swap" rel="stylesheet">
   <meta charset="utf-8">
   <title>Drum Kit</title>
-  <style>
-    body {
-
-      text-align: center;
-      background-color: #283149;
-    }
-
-    h1 {
-      font-family: "Sofia", sans-serif;
-      font-size: 5rem;
-      color: #DBEDF3;
-      text-shadow: 3px 0 #DA0463;
-
-    }
-
-    .w.drum {
-      background-color: #FF5733; /* Orange */
-      box-shadow: 0 5px 15px rgba(255, 87, 51, 0.6);
-    }
-
-    .a.drum {
-      background-color: #FFC300; /* Yellow */
-      box-shadow: 0 5px 15px rgba(255, 195, 0, 0.6);
-    }
-
-    .s.drum {
-      background-color: #03ffa2; /* Green */
-      box-shadow: 0 5px 15px rgba(4, 170, 109, 0.6);
-    }
-
-    .d.drum {
-      background-color: #00bfff; /* Blue */
-      box-shadow: 0 5px 15px rgba(0, 140, 186, 0.6);
-    }
-
-    .j.drum {
-      background-color: #f00a0a; /* Grey */
-      box-shadow: 0 5px 15px #d61010be;
-    }
-
-    .k.drum {
-      background-color: #8C33FF; /* Purple */
-      box-shadow: 0 5px 15px rgba(140, 51, 255, 0.6);
-    }
-
-    .l.drum {
-      background-color: #FF33F6; /* Pink */
-      box-shadow: 0 5px 15px rgba(255, 51, 246, 0.6);
-    }
-
-    .set {
-      margin: 10% auto;
-    }
-
-    .game-over {
-      background-color: red;
-      opacity: 0.8;
-    }
-
-    .pressed {
-      box-shadow: 0 3px 4px 0 #DBEDF3;
-      opacity: 0.5;
-    }
-
-    .red {
-      color: red;
-    }
-
-    .drum:hover {
-      cursor: grab;
-      transform: scale(1.1); /* Slightly enlarge the button on hover */
-    }
-
-    .drum {
-      font-family: "Crimson Text", serif;
-      outline: none;
-      border: 10px solid #404B69;
-      font-size: 5rem;
-      line-height: 2;
-      font-weight: 900;
-      color: #181818;
-      text-shadow: 3px 0 #DBEDF3;
-      border-radius: 15px;
-      display: inline-block;
-      width: 150px;
-      height: 150px;
-      text-align: center;
-      margin: 10px;
-      transition-duration: 0.4s;
-    } 
-
-  </style>
 </head>
-
-<body>
+<body style="color: #283149">
 
   <h1 id="title">Drum 🥁 Kit</h1>
   <div class="set">
-    <button onclick="playsound('w')" class="w drum">w</button>
-    <button onclick="playsound('a')" class="a drum">a</button>
-    <button onclick="playsound('s')" class="s drum">s</button>
-    <button onclick="playsound('d')" class="d drum">d</button>
-    <button onclick="playsound('j')" class="j drum">j</button>
-    <button onclick="playsound('k')" class="k drum">k</button>
-    <button onclick="playsound('l')" class="l drum">l</button>
+    <button class="w drum">w</button>
+    <button class="a drum">a</button>
+    <button class="s drum">s</button>
+    <button class="d drum">d</button>
+    <button class="j drum">j</button>
+    <button class="k drum">k</button>
+    <button class="l drum">l</button>
   </div>
-  <script src="index.js"></script>
+  <script src="index.js">
+    
+  </script>
   
 </body>
 

@@ -52,6 +52,8 @@ THE AMOUNT OF SATISFACTION I GOT WAS IMMEASURABLE. Harry potter franchise was on
 
 ``git checkout <branch>:`` Switches between branches.
 
+``git commit --amend -m "New commit message"`` Commit any messages 
+
 ``git checkout <remote branch> <Relative path of the file to be copied from the other branch>:`` To move a file from one branch to another 
 
 ``git push:`` Pushes the local branch's changes to the remote repository.
